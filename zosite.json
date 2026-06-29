@@ -1,0 +1,8 @@
+{
+  "name": "promptvault",
+  "framework": "nextjs-app-router",
+  "buildCommand": "bun run build",
+  "devCommand": "bun run dev",
+  "outputDirectory": ".next",
+  "port": 3000
+}
